@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasithJY&show_icons=true&theme=radical" alt="YasithJY's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayanikalnsooiya24&show_icons=true&theme=radical" alt="Jayanikalansooriya's GitHub Stats" />
 </p>
 
 <picture>
@@ -73,4 +73,3 @@
 ---
 
 
-</style>
