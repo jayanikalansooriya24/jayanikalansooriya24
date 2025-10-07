@@ -16,7 +16,7 @@
 
 - 🎓 **Information Technology Undergraduate at SLIIT**  
 - 💡 Passionate about **Web Development**, **UI/UX Design**, and creative problem-solving  
-- 💻 Explore my work at [**My Portfolio**](https://protfolio-lime-six.vercel.app/)  
+- 💻 Explore my work at [**My Portfolio**](https://portfolio-eta-orpin-96.vercel.app/)  
 - 📬 Reach me: **jayanikalansooriya24@gmail.com**  
 - 😄 Fun fact: *Call me Jayani!*  
 
